@@ -8,7 +8,7 @@ public class Exp4 {
 		
 	public static void main(String[] args) {
 		
-		Set<String> ts = new TreeSet<String>();
+		Set<String> ts = new TreeSet<>();
 		
 		ts.add("spring");
 		ts.add("java");
